@@ -42,4 +42,4 @@ At finish of training model predicted following images:
 
 ![image](https://github.com/MPGarg/EVA8_Capstone_A/assets/120099863/5364938b-0756-4cf1-b03e-de8342fd609c)
 
-Model Link in Hugging Face: https://huggingface.co/MadhurGarg/ControlNet_Flowers2
+Trained Model Link in Hugging Face: https://huggingface.co/MadhurGarg/ControlNet_Flowers2
